@@ -4,6 +4,10 @@ CSCI 526 Project
 
 NOTE: uses Unity Version 2020.3.26f1
 
+Link to Game Demo:
+
+[![Game Video Thumbnail](https://img.youtube.com/vi/92eX2jHVBwc/0.jpg)](https://www.youtube.com/watch?v=92eX2jHVBwc)
+
 ## Cloning and setting up
 To correctly clone and work with this repository, you need to perform a few preliminary steps. Instructions here adapted from https://en.joysword.com/posts/2016/03/setting_up_github_for_unity_projects/#clone-the-repository-for-other-team-members.
 
